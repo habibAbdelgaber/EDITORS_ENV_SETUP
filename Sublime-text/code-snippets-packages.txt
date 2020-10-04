@@ -1,0 +1,28 @@
+# Setting up Sublime text for working development environment
+
+1- Below is code snippets that you can copy and paste to Preferences.sublime.settings--User:
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"font_face": "Courier New",
+	"font_size": 13,
+	"format_while_editing": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme"
+}
+
+# If you don't have Sublime text already installed, you can visit: https://www.sublimetext.com/3
+
+2- To install a package go to package control and type install packages, Then type package name below you would like to install.
+1- File Icon
+2- HTML/CSS/JS Prettify
+3-Jedi
+
+4- To make sure that the packes are installed successfully, go to Package Control.sublime-settings--User
