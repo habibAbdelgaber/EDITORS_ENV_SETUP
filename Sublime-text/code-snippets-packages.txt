@@ -25,4 +25,26 @@
 2- HTML/CSS/JS Prettify
 3-Jedi
 
+3-Your Package control settings should look like this below if not copy the code snippets below paste it.
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"A File Icon",
+		"FileIcons",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"Jedi - Python autocompletion",
+		"Package Control",
+		"Type Language Syntax",
+		"TypeScript Syntax"
+	]
+}
+
+
 4- To make sure that the packes are installed successfully, go to Package Control.sublime-settings--User
