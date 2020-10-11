@@ -1,0 +1,38 @@
+# Here, in this class we're going to install some atom editor themes and packages that most developers setup for web development environment
+
+1- Section 1.
+* Below are some atom packages that you can install for your web development.
+
+a) Linter.
+b) Pigments.
+c) File Icon.
+d) Emmet.
+e) Git Plus.
+f) Atom Beautify.
+g) Highlight Selected.
+h) Color Picker.
+i) Minimap.
+j) Teletype.
+k) Project Manager.
+l) Auto-Close HTML.
+m) Zentabs
+n) Script.
+o) Atom-live-server.
+
+To learn more about these packages visit: https://www.elegantthemes.com/blog/wordpress/best-atom-packages/
+
+1- Section 2.
+* Below are some atom themes that you can install for your web development.
+
+a) Atom Material UIn Theme.
+b) SETI UI THEME.
+c) ISOTOPE UI TEHEME.
+d) ISOTOPE LIGHT UI THEME.
+e) CITY Lights UI THEME.
+f) METRO UI THEME.
+g) ACCENTS UI THEME.
+h) SLACK UI THEME.
+i) ATOM UNICORN LIGHT UI THEME.
+j) ATOM VISUAL STUDIO CODE UI THEME.
+
+To learn more about these themes visit: https://www.developerdrive.com/best-atom-themes-developers/
